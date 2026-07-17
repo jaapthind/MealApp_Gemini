@@ -1,0 +1,6 @@
+{
+  "name": "Meal Planner",
+  "description": "A modern, professional, and clean meal planning app with a dark-mode theme, high-quality rounded liquid glass components, and an AI chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
